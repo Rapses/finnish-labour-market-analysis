@@ -129,3 +129,33 @@ This is Project 3 of a data science portfolio demonstrating progression across d
 **Rupesh Jha** — Data Scientist | MSc Mathematics | MBA (International Business)
 
 15 years in Finland. Combines mathematical foundations with business context and local market knowledge.
+
+## Academic References
+
+### Methodology informed by:
+
+**Unemployment Forecasting:**
+- Kim, K. (2025). Unemployment Dynamics Forecasting 
+  with Machine Learning Regression Models. 
+  arXiv:2505.01933
+
+- Macroeconomic Forecasting and Machine Learning. 
+  arXiv:2510.11008
+
+**Finnish Labour Market specifically:**
+- Tanskanen, A. et al. (2025). A Rich Life Cycle Model 
+  of Labor Supply in Finland. arXiv:2511.00660
+  *(Covers Finnish employment states, ML and 
+  reinforcement learning applied to Finnish market)*
+
+**Predicting Unemployment with Registry Data:**
+- Kuikka, S. (2024). The (Un)Predictability of Early 
+  (Un)Employment: A Machine Learning Approach. 
+  *(Uses Finnish birth cohort register data — 
+  directly relevant to regional analysis)*
+
+**Data Source:**
+- Statistics Finland. (2023). Labour Force Survey. 
+  stat.fi/til/tyti/index_en.html
+- Ministry of Economic Affairs and Employment Finland. 
+  tem.fi/en/employment
