@@ -126,6 +126,6 @@ This is Project 3 of a data science portfolio demonstrating progression across d
 
 ## About
 
-**Rupesh Jha** — Data Scientist | BSc Mathematics | MBA (International Business)
+**Rupesh Jha** — Data Scientist | MSc Mathematics | MBA (International Business)
 
 15 years in Finland. Combines mathematical foundations with business context and local market knowledge.
