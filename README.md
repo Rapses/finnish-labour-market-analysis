@@ -159,3 +159,8 @@ This is Project 3 of a data science portfolio demonstrating progression across d
   stat.fi/til/tyti/index_en.html
 - Ministry of Economic Affairs and Employment Finland. 
   tem.fi/en/employment
+
+  **Future Enhancement:** Based on Kim (2025), 
+replacing Linear Regression with Random Forest 
+or XGBoost could improve forecast accuracy 
+significantly. This is a planned enhancement.
